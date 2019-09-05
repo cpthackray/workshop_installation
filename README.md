@@ -5,7 +5,7 @@
 
 ### Windows
  - Install miniconda (see https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html)
- - Download this file: https://raw.githubusercontent.com/cpthackray/workshop_installation/master/flexbox_env.yml (to your Downloads folder).
+ - Download this file: https://raw.githubusercontent.com/cpthackray/workshop_installation/master/flexbox_env.yml (Right click and "Save Link As..." to your Downloads folder).
  - Open the Anaconda Prompt by searching it from the Start Menu.
  - At the Anaconda Prompt, type:
     > **cd Downloads**<br>
@@ -14,7 +14,7 @@
  
 ### Mac
  - Install miniconda (see https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html)
- - Download this file: https://raw.githubusercontent.com/cpthackray/workshop_installation/master/flexbox_env.yml (to your Downloads folder).
+ - Download this file: https://raw.githubusercontent.com/cpthackray/workshop_installation/master/flexbox_env.yml (Right click and "Save Link As..." to your Downloads folder).
  - Open the terminal
  - At the terminal prompt, type:
     > **cd ~/Downloads**<br>
