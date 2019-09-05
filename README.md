@@ -17,6 +17,6 @@
  - Download the file flexbox_env.yml from this site (to your Downloads folder).
  - Open the terminal
  - At the terminal prompt, type:
-    > ** cd ~/Downloads**<br>
+    > **cd ~/Downloads**<br>
     > **conda env create -f flexbox_env.yml**
  - This will take a couple of minutes. If it completes successfully, you're done!
