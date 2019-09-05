@@ -1,4 +1,4 @@
-# Installation instructions for ICMGP 2019 Box model workshop
+# Installation instructions for ICMGP 2019 Global Mercury Cycle Modeling workshop
  - During the workshop, we will be using a model and interactive workbooks that depend on the Python programming language and some of its packages. To make this possible on your own computer, please follow the below installation instructions. **No Python knowledge is required for the workshop.**
 
 ## Installation Instructions
