@@ -1,0 +1,8 @@
+name: flexbox
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - jupyter
+  - pyyaml
